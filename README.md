@@ -36,6 +36,10 @@ It is a temporary live demo, all data will be deleted after 10 minutes. Use the 
 
 ## 🔧 How to Install
 
+### 🖱️ One click deploy
+
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/amblerkr/uptime-kuma)
+
 ### 🐳 Docker
 
 ```bash
