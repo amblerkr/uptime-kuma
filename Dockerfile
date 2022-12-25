@@ -1,0 +1,1 @@
+FROM amblerkr/uptime-kuma
